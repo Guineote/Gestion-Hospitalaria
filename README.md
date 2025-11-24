@@ -1,1 +1,1 @@
-# Gesti-n-Hospitalaria
+# Gestión-Hospitalaria
