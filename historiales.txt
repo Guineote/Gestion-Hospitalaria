@@ -1,0 +1,9133 @@
+Historiales Médicos:
+[ Historial de Paciente - Teresa Ruiz ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Vacuna
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+--------------------------------------------------
+[ Historial de Paciente - Pilar Moreno ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+--------------------------------------------------
+[ Historial de Paciente - Concepción Muñoz ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Vacuna
+--------------------------------------------------
+[ Historial de Paciente - Rosa Alonso ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Análisis de Sangre (Normales)
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+--------------------------------------------------
+[ Historial de Paciente - Isabel Jiménez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Vacuna
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+--------------------------------------------------
+[ Historial de Paciente - Francisco Martínez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Cardiología
+--------------------------------------------------
+[ Historial de Paciente - Javier Gutiérrez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+--------------------------------------------------
+[ Historial de Paciente - María Fernández ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+--------------------------------------------------
+[ Historial de Paciente - Antonio González ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Vacuna
+--------------------------------------------------
+[ Historial de Paciente - Jose Rodríguez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+--------------------------------------------------
+[ Historial de Paciente - Ana Sánchez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Cardiología
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+--------------------------------------------------
+[ Historial de Paciente - Miguel Díaz ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+--------------------------------------------------
+[ Historial de Paciente - Jared Lopez Garcia ]
+
+    (No hay registros médicos aún)
+--------------------------------------------------
+[ Historial de Paciente - Pedro Hernández ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Cardiología
+--------------------------------------------------
+[ Historial de Paciente - Carlos Romero ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+--------------------------------------------------
+[ Historial de Paciente - Rafael Álvarez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Vacuna
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+--------------------------------------------------
+[ Historial de Paciente - Dolores Martín ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Análisis de Sangre (Normales)
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Tratamiento
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Cardiología
+--------------------------------------------------
+[ Historial de Paciente - Juan García ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Análisis de Sangre (Normales)
+--------------------------------------------------
+[ Historial de Paciente - Luis Pérez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Cardiología
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Antihipertensivos
+--------------------------------------------------
+[ Historial de Paciente - Manuel Gómez ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Resultado
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Chequeo general
+--------------------------------------------------
+[ Historial de Paciente - Carmen López ]
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - Especialidad
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: Especialidad
+  - General
+
+- Consulta: 30/11/2025
+  - Especialidad: General
+  - Radiografía
+--------------------------------------------------

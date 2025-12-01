@@ -1,0 +1,3 @@
+Cita(ID: C001, Paciente: P018, Prioridad: Baja, Nota: Visita normal, Fecha: 2025-12-01 08:00, Especialidad: Medicina Familiar)
+Cita(ID: C002, Paciente: P006, Prioridad: Media, Nota: Visita de control, Fecha: 2025-12-02 11:30, Especialidad: Cardiología)
+Cita(ID: C003, Paciente: P009, Prioridad: Alta, Nota: Requiere cirugía de emergencia, Fecha: 2025-12-05 10:00, Especialidad: Ortopedía)

@@ -1,0 +1,21 @@
+Historial de Médicos:
+Medico(ID: M006, Nombre: Dra. Laura Pérez, Especialidad: Ortopedía, Cedula: CED198, Horario: {miércoles: 10:00-17:00, lunes: 09:00-17:00}, Pacientes Activos: {P009, P007}
+--------------------------------------------------
+Medico(ID: M008, Nombre: Dra. Isabel García, Especialidad: Neurología, Cedula: CED350, Horario: {miércoles: 10:00-16:00}, Pacientes Activos: {P010, P018}
+--------------------------------------------------
+Medico(ID: M010, Nombre: Dra. Carmen Díaz, Especialidad: Pediatría, Cedula: CED404, Horario: {miércoles: 08:00-16:00, lunes: 08:00-17:00}, Pacientes Activos: {P019}
+--------------------------------------------------
+Medico(ID: M009, Nombre: Dr. Pedro Alonso, Especialidad: Cardiología, Cedula: CED239, Horario: {viernes: 10:00-16:00, miércoles: 08:00-17:00, lunes: 10:00-16:00}, Pacientes Activos: {P013}
+--------------------------------------------------
+Medico(ID: M007, Nombre: Dr. Miguel Fernández, Especialidad: Medicina Familiar, Cedula: CED210, Horario: {jueves: 08:00-18:00, miércoles: 10:00-16:00, lunes: 08:00-16:00}, Pacientes Activos: {P008}
+--------------------------------------------------
+Medico(ID: M005, Nombre: Dr. Javier López, Especialidad: Cirugía general, Cedula: CED432, Horario: {lunes: 10:00-16:00}, Pacientes Activos: {P006, P005}
+--------------------------------------------------
+Medico(ID: M002, Nombre: Dra. Sofia Martínez, Especialidad: Ginecología, Cedula: CED950, Horario: {viernes: 09:00-17:00, martes: 10:00-17:00}, Pacientes Activos: {P002}
+--------------------------------------------------
+Medico(ID: M003, Nombre: Dr. Carlos Ruiz, Especialidad: Medicina interna, Cedula: CED629, Horario: {viernes: 09:00-17:00}, Pacientes Activos: {P003}
+--------------------------------------------------
+Medico(ID: M004, Nombre: Dra. Elena Sánchez, Especialidad: Medicina interna, Cedula: CED544, Horario: {jueves: 10:00-18:00, martes: 09:00-16:00, lunes: 08:00-17:00}, Pacientes Activos: {P004}
+--------------------------------------------------
+Medico(ID: M001, Nombre: Dr. Ana Gómez, Especialidad: Medicina de emergencias, Cedula: CED189, Horario: {viernes: 09:00-17:00, jueves: 08:00-17:00, miércoles: 10:00-18:00}, Pacientes Activos: {P001, P020}
+--------------------------------------------------

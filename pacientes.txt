@@ -1,0 +1,43 @@
+Historial de Pacientes:
+Paciente(ID: P011, Nombre: Teresa Ruiz, Edad: 39, Alergias: {Lactosa}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P015, Nombre: Pilar Moreno, Edad: 50, Alergias: {Polen}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P017, Nombre: Concepción Muñoz, Edad: 35, Alergias: {Polen}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P019, Nombre: Rosa Alonso, Edad: 57, Alergias: {Frutos secos}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P013, Nombre: Isabel Jiménez, Edad: 32, Alergias: {Polen}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P006, Nombre: Francisco Martínez, Edad: 57, Alergias: {}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P020, Nombre: Javier Gutiérrez, Edad: 24, Alergias: {Lactosa}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P002, Nombre: María Fernández, Edad: 78, Alergias: {}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P003, Nombre: Antonio González, Edad: 51, Alergias: {Huevos}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P004, Nombre: Jose Rodríguez, Edad: 47, Alergias: {Frutos secos}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P007, Nombre: Ana Sánchez, Edad: 37, Alergias: {Lactosa}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P014, Nombre: Miguel Díaz, Edad: 72, Alergias: {Lactosa}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P111, Nombre: Jared Lopez Garcia, Edad: 21, Alergias: {}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P012, Nombre: Pedro Hernández, Edad: 29, Alergias: {}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P018, Nombre: Carlos Romero, Edad: 62, Alergias: {}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P016, Nombre: Rafael Álvarez, Edad: 36, Alergias: {Polen}, Estado: Inactivo)
+--------------------------------------------------
+Paciente(ID: P009, Nombre: Dolores Martín, Edad: 74, Alergias: {Penicilina}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P001, Nombre: Juan García, Edad: 67, Alergias: {Polen}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P008, Nombre: Luis Pérez, Edad: 27, Alergias: {}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P010, Nombre: Manuel Gómez, Edad: 34, Alergias: {}, Estado: Activo)
+--------------------------------------------------
+Paciente(ID: P005, Nombre: Carmen López, Edad: 23, Alergias: {Mariscos}, Estado: Activo)
+--------------------------------------------------

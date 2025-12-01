@@ -1,0 +1,5 @@
+pillow==12.0.0
+pyserial @ file:///C:/b/abs_38q410cihh/croot/pyserial_1736540571753/work
+setuptools==80.9.0
+ttkbootstrap==1.19.0
+wheel==0.45.1
