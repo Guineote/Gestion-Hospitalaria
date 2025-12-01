@@ -35,6 +35,7 @@ Pasos para ejecutar mediante ambiente virtual:
 * conda activate hosp.
 * cd "Ruta donde se almacene el proyecto"
 * python hospital.py
+
 En caso de que no se encunetre el ambiente hosp:
 * conda env create -f hosp.yml
 * conda activate hosp
