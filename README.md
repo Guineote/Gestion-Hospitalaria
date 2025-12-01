@@ -12,7 +12,7 @@ El sistema permite gestionar pacientes, médicos, citas con triaje automático, 
 
 ### 🧠 Estructuras de Datos Propias
 El núcleo del proyecto reside en `scripts/estructuras.py`. No se utilizan listas o diccionarios de Python para la lógica crítica:
-* **Colas de Prioridad (Min-Heap):** Utilizadas para el sistema de priorizacipon de citas segpun su nivel. Los pacientes se atienden según su gravedad, no solo por orden de llegada.
+* **Colas de Prioridad (Min-Heap):** Utilizadas para el sistema de priorizacipon de citas según su nivel. Los pacientes se atienden según su gravedad, no solo por orden de llegada. (triaje)
 * **Tablas Hash (con encadenamiento):** Para la búsqueda $O(1)$ de Pacientes, Médicos y Medicamentos.
 * **Listas Doblemente Enlazadas:** Manejo del historial médico cronológico, permitiendo navegación eficiente en ambos sentidos.
 * **Colas (FIFO):** Gestión de notificaciones y recordatorios.
