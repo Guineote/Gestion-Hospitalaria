@@ -1,6 +1,6 @@
 # Gestión-Hospitalaria
 
-> Un sistema completo de administración clínica desarrollado en Python, enfocado en la implementación **desde cero (from scratch)** de estructuras de datos y algoritmos de optimización.
+> Un sistema completo de administración clínica desarrollado en Python, enfocado en la implementación **desde cero** de estructuras de datos y algoritmos de optimización.
 
 ## 📋 Descripción
 
@@ -12,7 +12,7 @@ El sistema permite gestionar pacientes, médicos, citas con triaje automático, 
 
 ### 🧠 Estructuras de Datos Propias
 El núcleo del proyecto reside en `scripts/estructuras.py`. No se utilizan listas o diccionarios de Python para la lógica crítica:
-* **Colas de Prioridad (Min-Heap):** Utilizadas para el sistema de **Triaje**. Los pacientes se atienden según su gravedad, no solo por orden de llegada.
+* **Colas de Prioridad (Min-Heap):** Utilizadas para el sistema de priorizacipon de citas segpun su nivel. Los pacientes se atienden según su gravedad, no solo por orden de llegada.
 * **Tablas Hash (con encadenamiento):** Para la búsqueda $O(1)$ de Pacientes, Médicos y Medicamentos.
 * **Listas Doblemente Enlazadas:** Manejo del historial médico cronológico, permitiendo navegación eficiente en ambos sentidos.
 * **Colas (FIFO):** Gestión de notificaciones y recordatorios.
@@ -44,3 +44,15 @@ Gestion-Hospitalaria/
 │   └── pacientes.py        # Gestión de usuarios
 ├── hospital.py             # Punto de entrada (Main) y GUI
 └── datos/                  # Persistencia en archivos de texto plano (.txt)
+
+## 🛠️ Instalación y uso
+Instalar la dependencia ttkinter y ttkbootstrap meidante pip.
+Alternativa: Se puede ejecutar el ambiente virtual hosp ubicado en la raíz del proyecto sin embargo se requiere tener instalado Anaconda.
+Pasos para ejecutar mediante ambiente virtual:
+* conda activate hosp.
+* cd "Ruta donde se almacene el proyecto"
+* python hospital.py
+En caso de que no se encunetre el ambiente hosp:
+* conda env create -f hosp.yml
+* conda activate hosp
+
