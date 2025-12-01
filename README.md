@@ -28,6 +28,18 @@ Implementación de lógica difusa y exacta en `scripts/busqueda.py`:
 * Navegación por pestañas y paneles colapsables.
 * Actualización en tiempo real basada en eventos.
 
+## 🛠️ Instalación y uso
+Instalar la dependencia ttkinter y ttkbootstrap meidante pip.
+Alternativa: Se puede ejecutar el ambiente virtual hosp ubicado en la raíz del proyecto sin embargo se requiere tener instalado Anaconda.
+Pasos para ejecutar mediante ambiente virtual:
+* conda activate hosp.
+* cd "Ruta donde se almacene el proyecto"
+* python hospital.py
+En caso de que no se encunetre el ambiente hosp:
+* conda env create -f hosp.yml
+* conda activate hosp
+
+
 ## 📂 Estructura del Proyecto
 
 ```text
@@ -46,14 +58,4 @@ Gestion-Hospitalaria/
 └── datos/                  # Persistencia en archivos de texto plano (.txt)
 ```text
 
-## 🛠️ Instalación y uso
-Instalar la dependencia ttkinter y ttkbootstrap meidante pip.
-Alternativa: Se puede ejecutar el ambiente virtual hosp ubicado en la raíz del proyecto sin embargo se requiere tener instalado Anaconda.
-Pasos para ejecutar mediante ambiente virtual:
-* conda activate hosp.
-* cd "Ruta donde se almacene el proyecto"
-* python hospital.py
-En caso de que no se encunetre el ambiente hosp:
-* conda env create -f hosp.yml
-* conda activate hosp
 
