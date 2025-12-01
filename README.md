@@ -44,6 +44,7 @@ Gestion-Hospitalaria/
 │   └── pacientes.py        # Gestión de usuarios
 ├── hospital.py             # Punto de entrada (Main) y GUI
 └── datos/                  # Persistencia en archivos de texto plano (.txt)
+```text
 
 ## 🛠️ Instalación y uso
 Instalar la dependencia ttkinter y ttkbootstrap meidante pip.
